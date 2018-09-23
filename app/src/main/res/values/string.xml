@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spending diary</string>
+    <string name="income">Income</string>
+    <string name="spends">Spends</string>
+    <string name="dateB">Date</string>
+    <string name="timeB">Time</string>
+    <string name="messageEditTextIsEmpty">This field couldn`t be empty!</string>
+    <string name="messageElementExist">A category with the same name already exists.</string>
+    <string name="incomeAmount">Amount of income</string>
+    <string name="addIncome">Add</string>
+    <string name="setDateAndTime">Set date and time of receipt of income</string>
+    <string name="changeCategory">Change category</string>
+    <string name="spendsList">Spends List</string>
+
+</resources>
